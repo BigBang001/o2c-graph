@@ -8,7 +8,7 @@
 ## Live Demo
 
 **Public Deployment ( netlify):**
-[https://your-project-name. netlify.app](https://lucent-scone-29dfeb.netlify.app/)
+(https://lucent-scone-29dfeb.netlify.app/)
 
 **Local (zero setup):**
 Open `index.html` in any browser
